@@ -8,3 +8,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Research interests"
+      href: interests.html
+    - text: "Publications"
+      href: publications.html
