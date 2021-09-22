@@ -1,0 +1,6 @@
+From https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/
+
+type:
+rmarkdown::render_site()
+
+to render the whole site

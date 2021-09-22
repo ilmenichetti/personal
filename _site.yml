@@ -1,0 +1,13 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Lorenzo Menichetti"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Research Interests"
+      href: interests.html
+    - text: "Publications"
+      href: publications.html
