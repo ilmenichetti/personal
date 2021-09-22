@@ -4,10 +4,7 @@ navbar:
   title: "Lorenzo Menichetti"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "Research Interests"
-      href: interests.html
-    - text: "Publications"
-      href: publications.html
