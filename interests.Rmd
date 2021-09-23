@@ -1,5 +1,11 @@
 ---
-title: "Personal Website"
+title: "What I am interested with"
 ---
 
-Hello, World!
+Well, pretty much whatever is connected with the #carbon cycle in terrestrial ecosystems#.
+
+I am also extremely fascinated by #numerical models and model uncertainty#, in particular the stochastic exploration of it. This because ok, sure, some models are useful... but the fact they're all fundamentally wrong is the fascinating part, and measuring how much and nder which circumstances is fun.
+
+I am also a fanboy of the #cool ecology stuff#, dynamical systems theory... but I did not manage yet to work with it. I do collaborate with a friend (more knowledgeable than me since he's specialized in that, while I'm just an agronomist) but not yet productively.
+
+I've been fascinated by #termites# in the beginning of my career. I am attracted and scared by their perfection, and the efficiency of their colonies from where very few things can escape. Termites are a biogeochemical sink and are very, very good at it.
