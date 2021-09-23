@@ -7,8 +7,16 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "About Me"
+      icon: fa-user
       href: about.html
     - text: "Research interests"
+      icon: fa-graduation-cap
       href: interests.html
+    - text: "Projects and tools"
+      icon: fa-cogs
+      href: projects.html
     - text: "Publications"
+      icon: fa-book
       href: publications.html
+
+

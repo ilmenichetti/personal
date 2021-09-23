@@ -11,7 +11,7 @@
 
 
 
-<title>Personal Website</title>
+<title>A few of the things I did you can hopefully find useful</title>
 
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -289,12 +289,16 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Personal Website</h1>
+<h1 class="title toc-ignore">A few of the things I did you can hopefully find useful</h1>
 
 </div>
 
 
-<p>Hello, World!</p>
+<div id="icbm-climatic-modifier-module" class="section level2">
+<h2>ICBM climatic modifier module</h2>
+<p>ICBM is the Introductory Carbon Balance Model, a relatively minimalistic soil organic carbon decay model. The model is a compartmental decay model with two pools in its original formulation, and it has been modified and used in a number of publications. The model relies on two decay kinetics for each soil organic carbon pool over time, and each of these can be modified linearly by a scaling term determined by climate (specifically soil temperature and moisture). The #rclim# module calculates this scaling from climatic data (please refer to the package documentation and publications for more details). The tool can be useful directly in ICBM, but also to given an idea of the effect of soil moisture and temperature on decomposition of organic matter. You can access the package from my GitHub: <a href="https://github.com/ilmenichetti/reclim">https://github.com/ilmenichetti/reclim</a></p>
+<p>One example of the rclim normalization factor (here calculated based on remote sensed moisture data and global average temperatures): <img src="Re_crop.png" /></p>
+</div>
 
 
 
